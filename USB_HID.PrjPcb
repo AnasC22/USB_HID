@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=3
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -252,6 +252,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTRWHWXQ
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for USB_HID\Design Rule Check - USB_HID.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
